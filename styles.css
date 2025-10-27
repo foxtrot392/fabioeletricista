@@ -33,3 +33,18 @@ body{
   .hero{padding:64px}
   .content{padding:0}
 }
+.whatsapp-button {
+  display: inline-flex;
+  align-items: center;
+  background-color: #25D366;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.whatsapp-button img {
+  margin-right: 8px;
+}
